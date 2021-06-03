@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+.header{
+    height:60px;
+    display:flex;
+    position:sticky;
+    padding:20px 0 0 10px;
+    top:0;
+
+    box-shadow: 0 5px 8px -9px rgba(0,0,0,0.75);
+}
+
+.header__left >h1{
+    font-family: 'Sacramento', cursive;
+}
